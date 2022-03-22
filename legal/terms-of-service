@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Skydinse.de - AGB</title>
+  <link rel="icon" href="../source/style/icon/favicon.ico">
+  <link rel="stylesheet" href="../source/style/css/default-style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0000FF">
+  <meta content="Skydinse.de" property="og:title">
+  <meta name="twitter:title" content="Skydinse.de">
+  <meta name="twitter:description" content="Dies ist die offizielle Webseite des Minecraft-Servers Skydinse.de">
+  <meta content="Dies ist die offizielle Webseite des Minecraft-Servers Skydinse.de" property="og:description">
+  <meta name="og:site_name" content="Skydinse.de">
+  <meta name="keywords" content="Skydinse, skydinse.de, minecraft, minigames, craftattack, minecraft server, java, bedrock">
+  <meta name="description" content="Dies ist die offizielle Webseite des Minecraft-Servers Skydinse.de">
+</head>
+
+<body>
+
+<div style="float: left;">
+    <img src="../source/style/image/banner/skydinse-banner.png" onclick="home()" alt="Skydinse Logo"> 
+</div>
+ 
+
+<!-- Buttons start -->
+<div class="btn">
+  <p><a class="button" href="https://discord.gg/vECCFnGnrE"><em style="font-size: 1.2px;">⠀</em>DISCORD<em style="font-size: 1.2px;">⠀</em></a>
+  <a class="button" href="https://skydinse.de/help/faq1"><em style="font-size: 1.2px;">⠀</em>HILFE<em style="font-size: 1.2px;">⠀</em></a>
+  <a class="button" href="https://skydinse.de/">STARTSEITE</a>
+  <a class="button" href="https://forum.skydinse.de/">FORUM</a>
+  <a class="button" href="https://skydinse.de/docs/about/contact">KONTAKT</a>
+</div></p>
+<!-- Buttons end -->
+
+
+<!-- Cookie Box start -->  
+<div id="js-cookie-box" class="cookie-box cookie-box--hide">
+  Diese Webseite verwendet zur Funktion notwendige Cookies. Weitere Informationen hierzu können Sie in unserer <a class="cookie-box-link" href="./legal" target="content">Datenschutzerklärung</a> nachlesen. <span id="js-cookie-button" class="cookie-button"> Verstanden! </span>
+</div>
+<script src='../source/script/js/cookie/cookiebox-close.js'></script><script src="../source/script/js/cookie/cookiebox.js"></script>
+<!-- Cookie Box end --> 
+
+<div class="main-wrapper">
+  <div class="content-wrapper">
+    <h1>Skydinse.de<br />AGB</h1>
+    <div class="middle">
+      Hier findest du unsere Allgemeinen Geschäftsbedingungen!<br /> 
+      ⠀
+    </div>
+    <hr>
+
+	<h1>-- coming soon! --</h1>
+
+    <hr>
+  </body>
+  <footer>
+      <div class="footer-text">Alle Rechtlichen Informationen sind unter <a href="../legal" class="footer-text-link">https://skydinse.de/legal</a> zu finden.<br />Dies ist die offizielle Website des Skydinse.de Servernetzwekes!<br /><object style="width: auto; height: 29.5px;" data="https://skydinse.de/docs/about/copyright"></object></div>
+    </div>
+  </div>
+  </footer>
+  <script src="../source/script/js/main/collapsible.js"></script> 
+  </html>
